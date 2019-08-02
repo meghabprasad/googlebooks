@@ -35,7 +35,7 @@ class Saved extends Component {
             <div class="container">
             <Container fluid>
             <Jumbotron>
-            <div style={{color: "white", fontSize: "90px", backgroundColor: "black", borderRadius: "50%"}}>
+            <div style={{color: "white", fontSize: "90px", backgroundColor: "rgba(0,0,0,0.6)", borderRadius: "20px"}}>
               <p>My Books</p>
               
               </div>
@@ -56,7 +56,6 @@ class Saved extends Component {
             ) : (
               <h3>No Results to Display</h3>
             )}
-        
       </Container>
       </div>
     );
