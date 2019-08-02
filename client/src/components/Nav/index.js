@@ -9,7 +9,7 @@ function Nav() {
       </a>
       <div>
         <ul className="navbar-nav">
-          <li className="nav-item right">
+          <li className="nav-item">
             <Link
               to="/saved"
               className={
