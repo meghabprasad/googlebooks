@@ -83,7 +83,7 @@ class Books extends Component {
       <div class="container">
       <Container fluid>
             <Jumbotron>
-              <div style={{color: "white", fontSize: "90px", backgroundColor: "black", borderRadius: "50%"}}>
+              <div style={{color: "white", fontSize: "90px", backgroundColor: "rgba(0,0,0,0.6)", borderRadius: "20px"}}>
               <p>Bookworm</p>
               
               </div>
